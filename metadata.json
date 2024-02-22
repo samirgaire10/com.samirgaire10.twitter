@@ -6,7 +6,7 @@
             }
         ],
         "Category": "Online Services",
-        "Description": "Twitter plasmoid for Plasma.",
+        "Description": "witter plasmoid for Plasma.",
         "Icon": "search-symbolic",
         "Id": "com.samirgaire10.twitter",
         "License": "BSD 3.0",
