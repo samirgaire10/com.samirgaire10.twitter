@@ -24,7 +24,7 @@ move the file to `/home/.local/share/plasma/plasmoids/`
 and run the command  
 `plasmawindowed  com.samirgaire10.twitter `
 
-
+ 
 
 ##  Other Tools 
 
